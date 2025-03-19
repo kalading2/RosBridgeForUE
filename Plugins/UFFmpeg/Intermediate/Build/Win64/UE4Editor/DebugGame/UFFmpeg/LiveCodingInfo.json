@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.UFFmpeg.cpp.obj": [
+			"EncodeData.cpp.obj",
+			"EncoderThread.cpp.obj",
+			"FFmpegDirector.cpp.obj",
+			"FFmpegFunctionLibrary.cpp.obj",
+			"UFFmpeg.cpp.obj"
+		],
+		"Module.UFFmpeg.gen.cpp.obj": [
+			"EncodeData.gen.cpp.obj",
+			"FFmpegDirector.gen.cpp.obj",
+			"FFmpegFunctionLibrary.gen.cpp.obj",
+			"UFFmpeg.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,171 @@
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\DebugGame\UFFmpeg\Definitions.UFFmpeg.h
+D:/UnrealProjects/RosBridgeDemo/Plugins/UFFmpeg/Source/UFFmpeg/Private/EncodeData.cpp
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Source\UFFmpeg\Public\EncodeData.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Inc\UFFmpeg\EncodeData.generated.h
+D:/UnrealProjects/RosBridgeDemo/Plugins/UFFmpeg/Source/UFFmpeg/Private/EncoderThread.cpp
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Source\UFFmpeg\Public\EncoderThread.h
+D:/UnrealProjects/RosBridgeDemo/Plugins/UFFmpeg/Source/UFFmpeg/Private/FFmpegDirector.cpp
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Source\UFFmpeg\Public\FFmpegDirector.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\AudioMixerDevice.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioDevice.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/AudioComponent.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/QuartzSubscription.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockHandle.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzSubsystem.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\QuartzSubsystem.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/QuartzMetronome.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer\AudioMixerClockHandle.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerQuantizedCommands.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz\AudioMixerClock.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioComponent.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/SpectrumAnalyzer.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/AudioFFT.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/FFTAlgorithm.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\SampleBuffer.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioDynamicParameter.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioSettings.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioSettings.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundClass.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundClass.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundMix.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundMix.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSubmix.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioExtensions\Public\IAudioEndpoint.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/MultithreadedPatching.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\IAudioEndpoint.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioExtensions\Public\ISoundfieldEndpoint.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioExtensions\ISoundfieldEndpoint.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound\SampleBufferIO.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound\SoundEffectSubmix.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundEffectSubmix.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSubmix.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundSourceBus.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/SoundWaveProcedural.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundWaveProcedural.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Sound/AudioBus.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\AudioBus.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\SoundSourceBus.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\AudioVirtualLoop.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\ActiveSound.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\Audio/AudioDebug.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\SignalProcessing\Public\DSP/VolumeFader.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\AudioMixer\Public\Quartz/AudioMixerClockManager.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavformat/avformat.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavcodec/avcodec.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/samplefmt.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\avutil.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\common.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\inttypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\attributes.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\macros.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/avconfig.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\common.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\mem.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\error.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\avutil.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\rational.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\mathematics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\intfloat.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\log.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\pixfmt.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/buffer.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/cpu.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/channel_layout.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/dict.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/frame.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/hwcontext.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavcodec\version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavformat\avio.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/common.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavformat/version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libswscale/swscale.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libswscale\version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/file.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/imgutils.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil\pixdesc.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/opt.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavfilter/buffersink.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavfilter\avfilter.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavfilter/version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavfilter/buffersrc.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libavutil/time.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libswresample/swresample.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\ThirdParty\ffmpeg\include\libswresample/version.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Inc\UFFmpeg\FFmpegDirector.generated.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Public\GameDelegates.h
+D:/UnrealProjects/RosBridgeDemo/Plugins/UFFmpeg/Source/UFFmpeg/Private/FFmpegFunctionLibrary.cpp
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Source\UFFmpeg\Public\FFmpegFunctionLibrary.h
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Inc\UFFmpeg\FFmpegFunctionLibrary.generated.h
+D:/UnrealProjects/RosBridgeDemo/Plugins/UFFmpeg/Source/UFFmpeg/Private/UFFmpeg.cpp
+D:\UnrealProjects\RosBridgeDemo\Plugins\UFFmpeg\Source\UFFmpeg\Public\Uffmpeg.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Core.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformNamedPipe.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformNamedPipe.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformNamedPipe.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCriticalSection.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/PlatformIncludes.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MessageDialog.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ScopedDebugInfo.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\ProfilingDebugging/ExternalProfiler.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/StringUtility.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/NameAsStringProxyArchive.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MRUArray.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/TransArray.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/ArrayBuilder.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/SingleThreadEvent.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadManager.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/StaticBitArray.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/MapBuilder.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/ThreadingBase.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManagerGlobals.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogSuppressionInterface.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\HAL/OutputDevices.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Logging/LogScopedVerbosityOverride.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceNull.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceMemory.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceFile.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceDebug.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceArchiveWrapper.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceAnsiError.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TimeGuard.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryWriter.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryData.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/LargeMemoryReader.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferArchive.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayReader.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/ArrayWriter.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Serialization/BufferWriter.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/WildcardString.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Containers/CircularQueue.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceHelper.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/CallbackDevice.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/LocalTimestampDirectoryVisitor.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BlueprintsObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/BuildObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/CoreObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/FrameworkObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/MobileObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/NetworkingObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/OnlineObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PhysicsObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/PlatformObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/VRObjectVersion.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/OutputDeviceConsole.h
+D:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/MonitoredProcess.h

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UFFmpeg.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UnrealProjects\UAV_PX_AirSim\Intermediate\Build\Win64\UAV_PX_AirSimEditor\Development\UnrealEd\SharedPCH.UnrealEd.NonOptimized.ShadowErrors.h.obj"
+"D:\UnrealProjects\UAV_PX_AirSim\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Development\UFFmpeg\Module.UFFmpeg.cpp.obj"
+"D:\UnrealProjects\UAV_PX_AirSim\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Development\UFFmpeg\Module.UFFmpeg.gen.cpp.obj"
+"D:\UnrealProjects\UAV_PX_AirSim\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Development\UFFmpeg\Default.rc2.res"
+/OUT:"D:\UnrealProjects\UAV_PX_AirSim\Plugins\UFFmpeg\Intermediate\Build\Win64\UE4Editor\Development\UFFmpeg\UE4Editor-UFFmpeg.lib"
+/INCLUDE:IMPLEMENT_MODULE_UFFmpeg
